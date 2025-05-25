@@ -49,4 +49,4 @@ Explore, visualize and model SpaceX Falcon 9 launch data using a complete data s
 
 🗓️ Date: 25.05.2025
 
-🗓️ In progress: creating the documentation and putting it all together
+🗃️ In progress: creating the documentation and putting it all together
