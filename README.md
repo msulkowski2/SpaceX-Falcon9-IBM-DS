@@ -17,7 +17,7 @@ Explore, visualize and model SpaceX Falcon 9 launch data using a complete data s
 2. Exploratory data analysis
 3. Implementing and evaluating ML models
 
---
+---
 
 ## Technologies
 
@@ -47,6 +47,6 @@ Explore, visualize and model SpaceX Falcon 9 launch data using a complete data s
 ## Status
 ✅ Educational project - completed
 
-🗓️ Date: 25.05.2025
+🗓️ Date: 24.05.2025
 
 🗃️ In progress: creating the documentation and putting it all together
