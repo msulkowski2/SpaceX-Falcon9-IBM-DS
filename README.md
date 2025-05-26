@@ -1,4 +1,4 @@
-# 🚀 SpaceX Falcon 9 Successful Landing Prediction
+# 🚀 SpaceX Falcon 9 first stage Landing Prediction
 Classification model predicting Falcon 9 landing success based on mission data ([IBM Data Science course](https://www.coursera.org/account/accomplishments/professional-cert/92W1QUBMSKQQ) capstone)
 
 ---
