@@ -16,6 +16,7 @@ Explore, visualize and model SpaceX Falcon 9 launch data using a complete data s
 1. Data wrangling
 2. Exploratory data analysis
 3. Implementing and evaluating ML models
+4. Summary and conclusions
 
 ---
 
@@ -27,26 +28,25 @@ Explore, visualize and model SpaceX Falcon 9 launch data using a complete data s
 
 ---
 
-## Sample visualizations
-
-(TBD)
-
----
-
 ## What I learned throughout the project
 
-- Structure and workflow of a data science pipeline
-- Data collection and data wrangling methods
-- Using Pandas for data manipulation and cleaning
-- Using Matplotlib for exploratory data analysis and visualization
-- Applying statistical analysis and machine learning to uncover hidden patterns
-- Creating well-documented Github repositories with Jupyter notebooks
+- Structure and workflow of a data science pipeline.
+- Data collection and data wrangling methods.
+- Using Pandas for data manipulation and cleaning.
+- Using Matplotlib for exploratory data analysis and visualization.
+- Applying statistical analysis and machine learning to uncover hidden patterns.
+- Creating well-documented Github repositories with Jupyter notebooks.
 
 ---
 
+## Next steps/future work
+- Expand the dataset to help the models generalize better.
+- Incorporate new features to reveal factors that haven't been considered yet.
+- Integrate additional data sources like weather conditions.
+
+--
+
 ## Status
-✅ Educational project - completed
+✅ Educational project - completed at 24.05.2025.
 
-🗓️ Date: 24.05.2025
-
-🗃️ In progress: creating the documentation and putting it all together
+✅ Creating the documentation and putting it all together - completed at 31.05.2025.
