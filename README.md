@@ -44,7 +44,7 @@ Explore, visualize and model SpaceX Falcon 9 launch data using a complete data s
 - Incorporate new features to reveal factors that haven't been considered yet.
 - Integrate additional data sources like weather conditions.
 
---
+---
 
 ## Status
 ✅ Educational project - completed at 24.05.2025.
